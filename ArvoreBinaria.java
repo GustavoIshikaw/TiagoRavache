@@ -1,7 +1,6 @@
 //Contando o numer de nos
 
 
-
 class No {
     char valor;
     No esquerda, direita;

@@ -10,5 +10,5 @@ class no {
 
 public class arvore {
 
-    no raiz,
+    no raiz;
 }
